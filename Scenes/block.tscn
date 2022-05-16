@@ -1,6 +1,6 @@
 [gd_scene load_steps=4 format=2]
 
-[ext_resource path="res://block.obj" type="ArrayMesh" id=1]
+[ext_resource path="res://3D Models/block.obj" type="ArrayMesh" id=1]
 [ext_resource path="res://Scripts/Blocks/Block.cs" type="Script" id=2]
 
 [sub_resource type="ConcavePolygonShape" id=3]

@@ -14,11 +14,11 @@ Features to be added in the near future:
 * More blocks, depends on how easy it is to convert textures from minecraft
 
 Later:
-Non-solid/Gravity affected/Liquid blocks
-Biomes
-Day/Night
-Crafting
-Caves
+* Non-solid/Gravity affected/Liquid blocks
+* Biomes
+* Day/Night
+* Crafting
+* Caves
 
 Probably never:
 * Survival
