@@ -1,0 +1,12 @@
+[
+	{
+		"id": "grass",
+		"texture": "res://Textures/grass.png",
+        "icon": "res://Icons/grass.png"
+	},
+	{
+		"id": "dirt",
+		"texture": "res://Textures/dirt.png",
+        "icon": "res://Icons/dirt.png"
+	}
+]

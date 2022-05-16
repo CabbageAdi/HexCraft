@@ -1,0 +1,15 @@
+<Project Sdk="Godot.NET.Sdk/3.3.0">
+    <PropertyGroup>
+        <TargetFramework>net472</TargetFramework>
+        <LangVersion>10</LangVersion>
+    </PropertyGroup>
+
+    <ItemGroup>
+        <PackageReference Include="Newtonsoft.Json" Version="11.0.2" />
+    </ItemGroup>
+
+    <ItemGroup>
+      <Content Include=".gitignore" />
+      <Content Include="README.md" />
+    </ItemGroup>
+</Project>
